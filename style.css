@@ -1,0 +1,164 @@
+.header{ 
+    background-color: rgb(113, 100, 125);
+
+    height: 50px;
+    padding: 5px;
+    /* display: flex;
+    justify-content: space-between; */
+    box-shadow: rgb(0, 0, 0) 0px 5px 15px; 
+}
+
+body {
+    margin: 0;
+    background-color: rgb(146, 114, 146);
+    font-family: 'Titillium Web', sans-serif;  
+margin: 0;
+background-color : rgb(45, 44, 45)
+}
+.container {
+  
+    display: flex;
+    justify-content: center;
+    
+    flex-wrap: wrap;
+} 
+body {
+    margin: 0;
+    background-color: rgb(44, 44, 44);
+    font-family: 'Titillium Web', sans-serif; 
+    padding: 0;
+    
+}
+.left{
+    display: flex;
+    align-items: center;
+    color: rgb(128, 76, 24);  
+}
+.left h2{
+
+    margin: 10px;
+    font-size: 25px}
+
+    
+    .right a:hover{ 
+        color: rgb(44, 40, 40); }
+    
+    
+.right a {
+color: rgb(128, 76, 24);
+font-size: 20px;
+margin: 5px;
+text-decoration: none;  
+
+}
+.right{
+display: flex;
+justify-content: space-around;
+width: 75%;
+
+
+
+
+}
+.navbar{
+display: flex;
+flex-direction: row;
+align-items: center;
+justify-content: space-between;
+width: 100%;
+
+
+
+
+
+
+}
+.right a:hover{color: rgb(201, 194, 97);}
+
+
+
+
+.box {
+    background-color: rgb(58, 58, 58);
+    width: 220px;
+    height: 330px;
+    margin: 5px;
+    color: white;
+    font-size: 20px;
+    padding: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    opacity: 0.5; 
+justify-content: center;
+}
+
+.box img {
+    width: 100%; 
+}
+            .box {
+            background-color: rgb(129, 105, 136);
+
+            margin: 1px;
+            color: white;
+            font-size: 34px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+            opacity: 0.5; 
+            }
+
+            .box:hover {
+                box-shadow: rgba(110, 79, 136, 0.707) 0px 5px 15px;
+                opacity: 1;
+            }
+
+
+        .container { 
+            margin: 5px;
+            display: flex;
+            justify-content: center;
+            height: 100vh;
+            flex-wrap: wrap;
+        }
+
+        .box img {
+            width: 100%;
+        }
+    h5{
+
+color: saddlebrown;
+
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+    p{    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;                                           
+        color: rgb(128, 76, 24);}
+  h2{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: saddlebrown;}
+
+ a{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+ color: rgb(128, 76, 24);                                        }   
+
+
+
+
+
+
+
+
+h1{color: rgb(128, 76, 24);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+
+}
+
+.container{
+
+display: flex;
+flex-direction: row;
+align-items: center;
+justify-content: center;
+
+}
